@@ -1,0 +1,4 @@
+ollama>=0.6
+streamlit>=1.40
+pydantic>=2.7
+pandas>=2.0
